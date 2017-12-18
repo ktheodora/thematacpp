@@ -1,1 +1,1 @@
-# thematacpp
+# Οι εκφωνήσεις των ασκήσεων βρίσκονται στο: https://students.cs.unipi.gr/wiki/index.php/%CE%91%CF%81%CF%87%CE%AD%CF%82_%CE%A0%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CE%BF%CF%8D#.CE.A0.CE.B1.CE.BB.CE.B1.CE.B9.CF.8C.CF.84.CE.B5.CF.81.CE.B1_.CE.B8.CE.AD.CE.BC.CE.B1.CF.84.CE.B1
